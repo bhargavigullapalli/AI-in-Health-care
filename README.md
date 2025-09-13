@@ -160,24 +160,15 @@ All resources use Azure Entra ID (MSAL) for authentication.
 
 ---
 
-## Legal & Responsible Use
-
-Refer to Microsoft's [Responsible AI Principles](https://www.microsoft.com/en-us/ai/responsible-ai-resources) and ensure compliance with local healthcare laws if used beyond research.
-
----
-
 ## Contact & Support
 
-For queries: **[codeharshaa@gmail.com](mailto:codeharshaa@gmail.com)**
+For queries: **[bhargavigullapalli28@gmail.com](mailto:bhargavigullapalli28@gmail.com)**
 
-To report issues: [GitHub Issues](https://github.com/Azure-Samples/healthcare-agent-orchestrator/issues)
+To report issues: [GitHub Issues](https://github.com/bhargavigullapalli/AI-in-Health-care)
 
 ---
 
 ## Contribute
 
 PRs and improvements welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-This project follows the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-
 
